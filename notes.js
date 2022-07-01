@@ -65,12 +65,8 @@
 //
 
 
-// operationButtons.forEach(button => {
-//   button.addEventListener('click', () => {
-//       calculator.chooseOperation(button.innerText)
-//       calculator.updateDisplay()
-//   })
-// })
+///note might be needed.
+
 
 // equalsButton.addEventListener('click', button => {
 //   calculator.compute()
