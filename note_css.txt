@@ -1,4 +1,3 @@
 style sheets
 this fixed the style sheet loading for GH pages
 <link rel="stylesheet" href="./css/style.css">
-//
