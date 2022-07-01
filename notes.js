@@ -9,11 +9,11 @@
 //       if (isNaN(prev) || isNaN(current)) return
 //       switch (this.operation) {
 //           case '+':
-//               computation = prev + current
-//               break
-//           case '-':
-//               computation = prev - current
-//               break
+////
+
+
+
+///notes
 //           case '*':
 //               computation = prev * current
 //               break
