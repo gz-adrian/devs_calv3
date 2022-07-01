@@ -32,15 +32,11 @@
 //       let integerDisplay
 //       if (isNaN(integerDigits)) {
 //           integerDisplay = ''
-//       } else {
-//           integerDisplay = integerDigits.toLocaleString('en', { maximumFractionDigits: 0 })
-//       }
-//       if (decimalDigits != null) {
-//           return `${integerDisplay}.${decimalDigits}`
-//       } else {
-//           return integerDisplay
-//       }
-//   }
+//
+
+///data
+
+//tst//
 
 //   updateDisplay() {
 //       this.currentOperandTextElement.innerText =
