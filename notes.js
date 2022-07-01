@@ -61,11 +61,9 @@
 
 
 // numberButtons.forEach(button => {
-//   button.addEventListener('click', () => {
-//       calculator.appendNumber(button.innerText)
-//       calculator.updateDisplay()
-//   })
-// })
+
+//
+
 
 // operationButtons.forEach(button => {
 //   button.addEventListener('click', () => {
