@@ -68,12 +68,6 @@
 ///note might be needed.
 
 
-// equalsButton.addEventListener('click', button => {
-//   calculator.compute()
-//   calculator.updateDisplay()
-// })
-
-// allClearButton.addEventListener('click', button => {
-//   calculator.clear()
-//   calculator.updateDisplay()
+//
+// notest
 // })
