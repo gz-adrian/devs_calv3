@@ -5,8 +5,8 @@ style sheets
 this fixed the style sheet loading for GH pages
 <link rel="stylesheet" href="./css/style.css">
 style sheets
-this fixed the style sheet loading for GH pages
-<link rel="stylesheet" href="./css/style.css">
+//notes
+
 
 
 this fixed the style sheet loading for GH pages
