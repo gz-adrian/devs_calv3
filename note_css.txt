@@ -4,8 +4,8 @@ this fixed the style sheet loading for GH pages
 <link rel="stylesheet" href="./css/style.css">
 
 // notes to take on
-// notes to take on
-// notes to take on
+
+// notes
 // notes to take on
 // notes to take on
 
